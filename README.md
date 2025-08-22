@@ -29,22 +29,19 @@ python-syntax-checker/
 
 ## ⚙️ Setup & Requirements
 This tool works with **Python 3.x** and requires no external libraries.  
-Just ensure you have Python installed:
+Just ensure you have Python installed
 
-```bash
-python --version
-How to Run
+## HOW to run the program
 
 Run the tool in your terminal:
 
 python syntax_checker.py
 
-
 Enter the path of the Python file you want to check, e.g.:
 
 Enter the path of the Python script: example.py
 
-📝 Example
+# 📝 Example
 Input (example.py)
 print("Hello world"
 a = 10
@@ -59,22 +56,14 @@ a = 10
 Output
 ✅ No syntax errors found. The file is valid.
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License - feel free to use and modify.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Developed by [Your Name] 🚀
+Developed by [PRIYANSH RANJAN] 🚀
 
-
----
-
-⚡ Next Step:  
-- Save this as **README.md** inside your repo.  
-- Add a **requirements.txt** (even if empty, so reviewers see dependencies are considered).  
-  ```txt
-  # No external dependencies required
 
 ## here is the link of my project please check
 https://colab.research.google.com/drive/1w1uitwW4GFCmqA6vkHAGqyLV6MA-tpWv?usp=sharing
