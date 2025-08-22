@@ -11,8 +11,10 @@ python-syntax-checker/
 A lightweight Python utility that helps beginner programmers quickly identify **syntax errors** in their Python scripts without executing the code.  
 
 ---
-# here is the link of my project Python Syntax Checker Tool:
-vhttps://colab.research.google.com/drive/1w1uitwW4GFCmqA6vkHAGqyLV6MA-tpWv?usp=sharing
+## 🚀 Featured Projects
+
+- [Python Syntax Checker Tool](https://colab.research.google.com/drive/1w1uitwW4GFCmqA6vkHAGqyLV6MA-tpWv?usp=sharing)  
+  *Analyze and summarize student marks and grades using Python in Google Colab.*
 
 ## 📌 Features
 - Accepts a Python file path as input.
