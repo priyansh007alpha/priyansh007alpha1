@@ -1,11 +1,4 @@
 # priyansh007alpha1
-python-syntax-checker/
-│── syntax_checker.py      # Main Python tool
-│── example.py             # Sample Python file for testing
-│── README.md              # Project documentation
-│── requirements.txt       # Dependencies (if any)
-│── LICENSE                # (Optional, e.g., MIT License)
-
 # 🐍 Python Syntax Checker Tool
 
 A lightweight Python utility that helps beginner programmers quickly identify **syntax errors** in their Python scripts without executing the code.  
